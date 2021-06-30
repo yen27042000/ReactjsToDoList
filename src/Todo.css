@@ -1,0 +1,8 @@
+.aligned {
+    display: flex;
+    align-items: center;
+  }
+  .App1 {
+    text-align: left;
+    margin-left: 0px;
+  }
